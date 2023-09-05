@@ -1,7 +1,10 @@
 ### Learn Python Playwright
 
 ### Topics
-- 
+- Pytest
+- Playwright ( Sync API)
+- Maximum Window, Locators, Fixture with python
+- Test Assertions
 
 
 ### Structure
