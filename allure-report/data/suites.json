@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_01_helloworld",
+    "children" : [ {
+      "name" : "test_vwo_login",
+      "uid" : "dfd1ce53636c0d8",
+      "parentUid" : "739468e705d9eb67b0f58016de795bed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1693895812900,
+        "stop" : 1693895826010,
+        "duration" : 13110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "739468e705d9eb67b0f58016de795bed"
+  } ]
+}

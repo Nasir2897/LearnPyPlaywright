@@ -1,0 +1,60 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MBP-C02DRR20MD6M",
+    "children" : [ {
+      "name" : "50516-MainThread",
+      "children" : [ {
+        "name" : "test_vwo_login",
+        "uid" : "e791f1a33907269b",
+        "parentUid" : "054c2f97bcfcdee9e41c203dafd62ca8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1693895736755,
+          "stop" : 1693895750832,
+          "duration" : 14077
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "054c2f97bcfcdee9e41c203dafd62ca8"
+    }, {
+      "name" : "10036-MainThread",
+      "children" : [ {
+        "name" : "test_vwo_login",
+        "uid" : "3178b0a7f276d2db",
+        "parentUid" : "2b04c6337c122294a5ff7d827746d8b4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693895604796,
+          "stop" : 1693895618828,
+          "duration" : 14032
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b04c6337c122294a5ff7d827746d8b4"
+    }, {
+      "name" : "75948-MainThread",
+      "children" : [ {
+        "name" : "test_vwo_login",
+        "uid" : "dfd1ce53636c0d8",
+        "parentUid" : "abd2092ad0db08cefac629c5ea85340f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1693895812900,
+          "stop" : 1693895826010,
+          "duration" : 13110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "abd2092ad0db08cefac629c5ea85340f"
+    } ],
+    "uid" : "2ea0ce863b4957a8cbf6bd1b6b7dc4f8"
+  } ]
+}

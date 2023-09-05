@@ -1,0 +1,113 @@
+{
+  "uid" : "3178b0a7f276d2db",
+  "name" : "test_vwo_login",
+  "fullName" : "test_01_helloworld#test_vwo_login",
+  "historyId" : "9341a800d9fa5412abf6ed5b1848ea3e",
+  "time" : {
+    "start" : 1693895604796,
+    "stop" : 1693895618828,
+    "duration" : 14032
+  },
+  "description" : "VWO Login",
+  "descriptionHtml" : "<p>VWO Login</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "base_url",
+    "time" : {
+      "start" : 1693895604794,
+      "stop" : 1693895604794,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "delete_output_dir",
+    "time" : {
+      "start" : 1693895604794,
+      "stop" : 1693895604794,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "_verify_url",
+    "time" : {
+      "start" : 1693895604794,
+      "stop" : 1693895604794,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "pytestconfig",
+    "time" : {
+      "start" : 1693895604794,
+      "stop" : 1693895604794,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "positive"
+  }, {
+    "name" : "suite",
+    "value" : "test_01_helloworld"
+  }, {
+    "name" : "host",
+    "value" : "MBP-C02DRR20MD6M"
+  }, {
+    "name" : "thread",
+    "value" : "10036-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_01_helloworld"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "positive" ]
+  },
+  "source" : "3178b0a7f276d2db.json",
+  "parameterValues" : [ ]
+}
