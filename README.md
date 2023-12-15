@@ -18,7 +18,7 @@
 7. **Test Generators with Record and Play**
 8. **Understanding the Playwright Code**
 9. **Write Playwright Test**
-10. **Localtors**
+10. **Locators**
 11. **Xpath and CSS Selectors(Xpath Axes)**
 12. **Actions with Playwright**
 13. **Shadow Dom SVG**
