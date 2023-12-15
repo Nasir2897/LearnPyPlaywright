@@ -1,28 +1,4 @@
-### Learn Python Playwright ( 30 Days Plan with Python )
-
-| Day | Topic to Study |
-|-----|----------------|
-| 1-2 | What is a Playwright? |
-| 3-4 | Feature of Playwright |
-| 5-7 | Python Basics |
-| 8 | Installation of Python 3.x |
-| 9 | Install Py Charm |
-| 10-11 | Playwright Architecture |
-| 12 | Test Generators with Record and Play |
-| 13-14 | Understanding the Playwright Code |
-| 15-16 | Write Playwright Test |
-| 17-18 | Actions with Playwright |
-| 19 | Shadow Dom SVG |
-| 20 | Javascript (page.evaluate) |
-| 21 | Test Assertions |
-| 22 | WebTables |
-| 23 | Taking ScreenShots (+Failure) |
-| 24 | Trace Viewer |
-| 25 | API testing & Mock APIs |
-| 26 | Reuse States Download Files |
-| 27 | Test Isolation |
-| 28-30 | Allure Report with PyTest |
-
+### Learn Python Playwright
 
 ### Tech Stack
 - Pytest
@@ -68,6 +44,31 @@ These headings provide a structured overview of the topics covered in the docume
 
 ### How to Install packages?
 pip install -r requirements.txt
+
+( 30 Days Plan with Python )
+
+| Day | Topic to Study |
+|-----|----------------|
+| 1-2 | What is a Playwright? |
+| 3-4 | Feature of Playwright |
+| 5-7 | Python Basics |
+| 8 | Installation of Python 3.x |
+| 9 | Install Py Charm |
+| 10-11 | Playwright Architecture |
+| 12 | Test Generators with Record and Play |
+| 13-14 | Understanding the Playwright Code |
+| 15-16 | Write Playwright Test |
+| 17-18 | Actions with Playwright |
+| 19 | Shadow Dom SVG |
+| 20 | Javascript (page.evaluate) |
+| 21 | Test Assertions |
+| 22 | WebTables |
+| 23 | Taking ScreenShots (+Failure) |
+| 24 | Trace Viewer |
+| 25 | API testing & Mock APIs |
+| 26 | Reuse States Download Files |
+| 27 | Test Isolation |
+| 28-30 | Allure Report with PyTest |
 
 
 ### PDF Notes
