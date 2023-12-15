@@ -18,18 +18,20 @@
 7. **Test Generators with Record and Play**
 8. **Understanding the Playwright Code**
 9. **Write Playwright Test**
-10. **Actions with Playwright**
-11. **Shadow Dom SVG**
-12. **Javascript (page.evaluate)**
-13. **Test Assertions**
-14. **WebTables**
-15. **Maximum Window, Locators, Fixture with python**
-16. **Taking ScreenShots (+Failure)**
-17. **Trace Viewer**
-18. **API testing & Mock APIs**
-19. **Reuse States Download Files**
-20. **Test Isolation**
-21. **Allure Report with PyTest**
+10. **Localtors**
+11. **Xpath and CSS Selectors(Xpath Axes)**
+12. **Actions with Playwright**
+13. **Shadow Dom SVG**
+14. **Javascript (page.evaluate)**
+15. **Test Assertions**
+16. **WebTables**
+17. **Maximum Window, Locators, Fixture with python**
+18. **Taking ScreenShots (+Failure)**
+19. **Trace Viewer**
+20. **API testing & Mock APIs**
+21. **Reuse States Download Files**
+22. **Test Isolation**
+23. **Allure Report with PyTest**
 
 These headings provide a structured overview of the topics covered in the document related to Playwright Python.
 
