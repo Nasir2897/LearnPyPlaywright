@@ -1,0 +1,1 @@
+{"name": "test_main_navigation[chromium]", "status": "passed", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1693986865913, "stop": 1693986883798, "uuid": "965b0448-d2fa-4df3-a824-9067bbfb490f", "testCaseId": "69dcae5869f03123fec9e28547324ea3", "fullName": "code.actions02.test_00_katalonstudio#test_main_navigation"}

@@ -1,0 +1,11 @@
+
+    Product 1
+    Add to cart
+  
+
+    Product 2
+    Add to cart
+  
+apple
+banana
+orange

@@ -1,0 +1,3 @@
+beforeEach
+File downloaded to: /var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/playwright-artifacts-7YdUmq/8d226fc3-063b-4263-872a-0f5e4ff1e8e4
+afterEach

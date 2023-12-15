@@ -1,0 +1,1 @@
+{"name": "test_vwo_login[chromium]", "status": "passed", "description": "VWO Login", "parameters": [{"name": "browser_name", "value": "'chromium'"}], "start": 1694424818399, "stop": 1694424845613, "uuid": "4aaa0452-e38e-4ba6-9217-b100d0a2e888", "testCaseId": "a15bd517bd870ff6acdf65d285ff95b0", "fullName": "code.locators04.test_locators_01#test_vwo_login"}
