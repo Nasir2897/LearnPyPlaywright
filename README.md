@@ -1,4 +1,4 @@
-### Learn Python Playwright
+### Learn Python Playwright ( 30 Days Plan with Python )
 
 ### Topics
 - Pytest
